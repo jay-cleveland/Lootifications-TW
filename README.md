@@ -1,4 +1,4 @@
-# Lootifications
+# Lootifications - Modified for TurtleWoW
 
 A simple addon to display notifications when new loot is received.
 
